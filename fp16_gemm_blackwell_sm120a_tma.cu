@@ -12,7 +12,7 @@
  * Design patterns adapted from CUTLASS library:
  * https://github.com/NVIDIA/cutlass
  * 
- * Author: Junfei Shi (@FY-26)
+ * Author: (@FY-26)
  * Date: 2026
  * GPU: NVIDIA Blackwell (SM120a)
  */
